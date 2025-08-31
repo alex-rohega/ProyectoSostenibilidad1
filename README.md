@@ -12,10 +12,7 @@ Este repositorio contiene el análisis de datos ambientales para evaluar la sost
 ## Objetivo
 Analizar datos sobre deforestación, contaminación, especies en peligro y áreas protegidas en Honduras, aplicando técnicas de ciencia de datos para proponer estrategias de conservación.
 
-## Entregables
-- Informe técnico con análisis y recomendaciones.
-- Código y datasets procesados.
-- Dashboard interactivo o visualizaciones.
+
 
 ## Autores
-- [Tu Nombre]
+
